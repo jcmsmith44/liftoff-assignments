@@ -23,7 +23,7 @@ Collector Director will give the user the ability to:
     -notes
   -add categories and sub-categories to their collections
   -sort collections by properties and categories
-  -gain satisfaction from adding to their collections by adding fanfare when an collection member is changed from "unowned" to "owned"     status
+  -gain satisfaction from adding to their collections by adding fanfare when a collection member is changed from "unowned" to "owned"     status
 ### Technologies
 Microsoft Visual Studio, ASP.net, c# MVC
 ### What I'll Have to Learn
