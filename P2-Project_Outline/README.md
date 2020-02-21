@@ -7,12 +7,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-My project is called
+My project is called Collector Director.  It is a web-app that will help collectors archive, organize, categorize, and prioritze the owned and unowned members of their specific collections.  
 ### Features
-Include Features here
+Collector Director will give the user the ability to:
+  -Organize their collection by assigning properties of each member of their collection, such as:
+    -price
+    -owned-status
+    -rarity
+    -priority
+    -notes
+  -add categories and sub-categories to their collections
+  -sort collections by properties and categories
+  -gain satisfaction from adding to their collections by adding fanfare when an collection member is changed from "unowned" to "owned"     status
 ### Technologies
-Include Technologies here
+Microsoft Visual Studio, ASP.net, c# MVC
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will have to get more comfortable with using databases and possibly brush up on some HTML concepts.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/lxb7oOf8/collector-director
